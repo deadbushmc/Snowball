@@ -1,0 +1,7 @@
+# Plugin By DeadBush
+# Can be edited in any way if proper credits are given
+# Donate paypal: https://paypal.me/deadbushnetric UPI: zeffgaming72@oksbi
+
+# add the amount of hearts snowball should damage
+# 1 means half a heart and 2 means one full heart
+hearts: "2"
