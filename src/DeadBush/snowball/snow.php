@@ -13,7 +13,7 @@ use pocketmine\entity\projectile\Snowball;
 use pocketmine\utils\Config;
 
 class snow extends PluginBase implements Listener {
-    public function onEnable(){
+    public function onEnable():void{
         $this->saveDefaultConfig();
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
     }
